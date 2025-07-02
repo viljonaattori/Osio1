@@ -1,4 +1,4 @@
-// Osion 1 tehtävät, 1.5 tehtävään asti
+// Osion 1 tehtävät, 1.5 tehtävään asti!
 const App = () => {
   const course = {
     name: "Half Stack application development",
